@@ -1,0 +1,93 @@
+
+body {margin: 0;}
+main {
+   padding: 10px 25px 10px 25px;
+  
+}
+p {
+    margin-top: 12px;
+}
+#navbar {
+    display: grid;
+    grid-template-columns: 1140px 60px 30px 60px;
+    padding: 1vw 3vh;
+    text-align: right;
+    grid-template-rows: 50px;
+    grid-template-areas: 
+    "gmail images menu sign-in"; 
+}
+
+#logo {
+    margin-left: 520px;
+    margin-top: 70px;
+}
+#search {
+    margin-top: 22px;
+    margin-bottom: 20px;
+    margin-left: 380px;
+    width: 41vw;
+    height: 6vh;
+    overflow: hidden;
+    background-position: left;
+    background-repeat: no-repeat;
+    padding-left: 40px;
+    border-radius: 10px;
+}
+#see{
+    position: relative;
+}
+i {
+    position: absolute;
+    top: 45%;
+    left: 390px;
+}
+#google-button-A {
+    margin-left: 510px;
+    margin-top: 8px;
+    height: 5vh;
+    width: 10vw;
+    padding-left: 2px;
+}
+#google-button-B {
+    margin-left: 2px;
+    height: 5vh;
+    margin-bottom: 20px;
+}
+
+#google-text {
+    display: inline-flex;
+    margin-left: 450px;
+}
+
+#footer {
+    display: inline-flex;
+    margin-top: 160px;
+  font-size: medium;
+  margin-bottom: 10px;
+}
+#fright {
+    margin-left: 730px;
+}
+#ffooter {
+    margin-top: 10px;
+}
+#frightt {
+    margin-left: 20px;
+}
+#frighttt, #c, #d, #e{
+    margin-left: 20px;
+}
+#n, #y, #i, #h{
+    margin-left: 10px;
+}
+a {text-decoration: none;
+
+}
+#footer, #b, #c, #d, #e{
+    color: grey;
+}
+#fright, #frightt, #frighttt, #footer{
+    color: grey;
+}
+
+  
